@@ -3,3 +3,4 @@ pyquery
 rsa
 lxml
 pytz
+selenium
